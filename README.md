@@ -22,7 +22,7 @@ Uma aplicação simples para classificação e predição de ações humanas em 
 
 1. Clone o repositório:
 ```
-git clone https://github.com/FelipeGFA/PrevisaoAcao.git
+git clone https://github.com/FelipeGFA/PrevisaoAcaoV1.git
 cd PrevisaoAcao
 ```
 
