@@ -1,4 +1,4 @@
-# Previsão de Ações Humanas
+# Previsão de Ações Humanas 1.0
 
 Uma aplicação simples para classificação e predição de ações humanas em imagens utilizando modelos de deep learning.
 
