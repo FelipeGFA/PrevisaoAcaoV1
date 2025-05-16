@@ -54,8 +54,3 @@ python previsao.py
   - `modelo_treinado.keras`: Modelo de classificação de ações
   - `data.txt`: Lista de classes de ações humanas
 
-## Informações Adicionais
-
-Este projeto utiliza um modelo pré-treinado para classificar imagens em diferentes categorias de ações humanas. A interface foi desenvolvida para ser simples e intuitiva, permitindo o processamento de múltiplas imagens. 
-
-**Importante:** Essa é uma versão protótipo, os resultados apresentam pouca precisão.
