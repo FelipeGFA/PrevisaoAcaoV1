@@ -14,8 +14,8 @@ Uma aplicação simples para classificação e predição de ações humanas em 
 
 ## Requisitos
 
-- Python 3.6+
-- TensorFlow 2.x
+- Python 3.6+ ou <3.12
+- TensorFlow 
 - OpenCV (cv2)
 - PyQt5
 - NumPy
