@@ -1,0 +1,48 @@
+# Ambiente virtual
+venv/
+env/
+ENV/
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Arquivos de distribuição/empacotamento
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+bin/
+var/
+sdist/
+develop-eggs/
+.installed.cfg
+lib/
+lib64/
+
+# Logs e arquivos temporários
+*.log
+*.pot
+*.pid
+.coverage
+htmlcov/
+.tox/
+.nox/
+.hypothesis/
+.pytest_cache/
+coverage.xml
+*.cover
+
+# Arquivos de ambiente e configuração
+.env
+.venv
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store 
