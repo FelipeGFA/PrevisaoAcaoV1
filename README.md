@@ -2,6 +2,8 @@
 
 Uma aplicação simples para classificação e predição de ações humanas em imagens utilizando modelos de deep learning.
 
+**Aviso: Essa é uma versão protótipo, os resultados apresentam pouca precisão.**
+
 ## Funcionalidades
 
 - Interface gráfica amigável desenvolvida com PyQt5
@@ -55,3 +57,9 @@ python previsao.py
 - `ModeloeData/`: Diretório com modelo treinado e dados das classes
   - `modelo_treinado.keras`: Modelo de classificação de ações
   - `data.txt`: Lista de classes de ações humanas
+
+## Informações Adicionais
+
+Este projeto utiliza um modelo pré-treinado para classificar imagens em diferentes categorias de ações humanas. A interface foi desenvolvida para ser simples e intuitiva, permitindo o processamento de múltiplas imagens. 
+
+**Importante:** Essa é uma versão protótipo, os resultados apresentam pouca precisão.
